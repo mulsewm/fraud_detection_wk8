@@ -1,0 +1,11 @@
+signup_time
+purchase_time
+purchase_value
+source
+browser
+age
+ip_address
+country
+transaction_delay
+hour_of_day
+day_of_week
